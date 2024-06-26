@@ -14,6 +14,25 @@ You'll be given transactional data showing user purchases made on the app includ
 
 Keep in mind as well that someone using the app might make a purchase through the app without having received an offer or seen an offer.
 
+<a name="structure"></a>
+
+## Structure
+
+Here's the file structure of the project
+
+```
+- .ipynb_checkpoints
+  | - Starbucks_Capstone_notebook-checkpoint.ipynb
+- data
+  | - portfolio.json
+  | - profile.json
+  | - transcript.json
+
+- Starbucks_Capstone_notebook.ipynb
+- README.md
+
+```
+
 # Data Sets
 
 The data is contained in three files:
@@ -48,6 +67,19 @@ Here is the schema and explanation of each variable in the files:
 # Conclusion
 After experimenting with various models, I discovered that the LGBM Classifier not only achieved the highest F1-score of 0.58, the metric chosen for evaluating test data performance, but also exhibited the highest accuracy. Consequently, I employed this model to identify factors predicting customer offer completion. Upon refining the model, I determined that the most influential predictors are the time taken to respond, customer income, and the year of customer enrollment.
 
+<a name="authors"></a>
+
+## Authors
+
+- [Miracle Kasigwa](https://github.com/MKasigwa)
+
+<a name="license"></a>
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<a name="acknowledgements"></a>
 
 # Acknowledgements
 I would like to thanks Udacity and Starbucks(https://www.starbucks.com/) for providing me with the datasets to use for this project.
