@@ -114,4 +114,12 @@ I would like to thanks Udacity and Starbucks(https://www.starbucks.com/) for pro
 <a name="screenshots"></a>
 # Screenshots
 
+<img width="432" alt="Screenshot 2024-06-26 at 12 57 41" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/086f3ba6-d0b8-482a-89c7-7d9e2b178107">
+<img width="1135" alt="Screenshot 2024-06-26 at 12 57 16" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/a5acde1a-e371-4dfd-abec-e8d9c32d7239">
+<img width="886" alt="Screenshot 2024-06-26 at 12 56 57" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/7d22a60a-cc40-488e-9cb1-6076d1e12ba0">
+<img width="804" alt="Screenshot 2024-06-26 at 12 56 47" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/3d7708d4-c6d0-43ce-8e1c-62b77df731e5">
+<img width="1134" alt="Screenshot 2024-06-26 at 12 56 34" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/6aa3ec8a-f3c6-4982-83e1-0a4b6d7b48aa">
+<img width="884" alt="Screenshot 2024-06-26 at 12 56 19" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/d4ce29d3-bf30-4143-9c6d-caba89435655">
+<img width="582" alt="Screenshot 2024-06-26 at 12 56 05" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/5fc30df4-dd80-4867-97c8-1cf15e2f5977">
+<img width="686" alt="Screenshot 2024-06-26 at 12 55 55" src="https://github.com/MKasigwa/starbuck_analysis/assets/38250874/1eb29298-e422-45ca-8931-d67f4db9ce70">
 
