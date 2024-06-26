@@ -1,5 +1,7 @@
 # Starbucks Analysis
 
+Blog https://medium.com/@miraclekasigwa/starbucks-unlocking-the-key-factors-behind-customer-offer-completion-6c0950330bc7
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
