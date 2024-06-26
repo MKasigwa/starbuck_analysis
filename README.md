@@ -1,5 +1,19 @@
 # Starbucks Analysis
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Structure](#structure)
+3. [Data Sets](#dataset)
+4. [Conclusion](#conclusion)
+5. [Dependencies](#dependencies)
+6. [Authors](#authors)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
+9. [Screenshots](#screenshots)
+
+<a name="introduction"></a>
+
 ### Introduction
 
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. 
@@ -23,6 +37,7 @@ Here's the file structure of the project
 ```
 - .ipynb_checkpoints
   | - Starbucks_Capstone_notebook-checkpoint.ipynb
+
 - data
   | - portfolio.json
   | - profile.json
@@ -32,6 +47,7 @@ Here's the file structure of the project
 - README.md
 
 ```
+<a name="dataset"></a>
 
 # Data Sets
 
@@ -64,6 +80,8 @@ Here is the schema and explanation of each variable in the files:
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+<a name="conclusion"></a>
+
 # Conclusion
 After experimenting with various models, I discovered that the LGBM Classifier not only achieved the highest F1-score of 0.58, the metric chosen for evaluating test data performance, but also exhibited the highest accuracy. Consequently, I employed this model to identify factors predicting customer offer completion. Upon refining the model, I determined that the most influential predictors are the time taken to respond, customer income, and the year of customer enrollment.
 
@@ -83,4 +101,8 @@ After experimenting with various models, I discovered that the LGBM Classifier n
 
 # Acknowledgements
 I would like to thanks Udacity and Starbucks(https://www.starbucks.com/) for providing me with the datasets to use for this project.
+
+<a name="screenshots"></a>
+# Screenshots
+
 
