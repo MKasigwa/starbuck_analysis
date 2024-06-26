@@ -85,6 +85,15 @@ Here is the schema and explanation of each variable in the files:
 # Conclusion
 After experimenting with various models, I discovered that the LGBM Classifier not only achieved the highest F1-score of 0.58, the metric chosen for evaluating test data performance, but also exhibited the highest accuracy. Consequently, I employed this model to identify factors predicting customer offer completion. Upon refining the model, I determined that the most influential predictors are the time taken to respond, customer income, and the year of customer enrollment.
 
+<a name="dependencies"></a>
+
+## Dependencies
+
+- Python 3.5+
+- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+- Model Loading and Saving Library: Pickle, sklearn
+- Web App and Data Visualization: Seaborn, Plotly
+
 <a name="authors"></a>
 
 ## Authors
