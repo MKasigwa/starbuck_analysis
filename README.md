@@ -44,3 +44,11 @@ Here is the schema and explanation of each variable in the files:
 * person (str) - customer id
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
+
+# Conclusion
+After experimenting with various models, I discovered that the LGBM Classifier not only achieved the highest F1-score of 0.58, the metric chosen for evaluating test data performance, but also exhibited the highest accuracy. Consequently, I employed this model to identify factors predicting customer offer completion. Upon refining the model, I determined that the most influential predictors are the time taken to respond, customer income, and the year of customer enrollment.
+
+
+# Acknowledgements
+I would like to thanks Udacity and Starbucks(https://www.starbucks.com/) for providing me with the datasets to use for this project.
+
